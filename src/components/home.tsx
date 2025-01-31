@@ -23,7 +23,7 @@ const Home = () => {
         </p>
         <div className="flex gap-4">
           <Link
-            href="https://expressapidocker.s3.ap-southeast-1.amazonaws.com/cv.pdf"
+            href="https://expressapidocker.s3.ap-southeast-1.amazonaws.com/Oeng+zhileang+CV.pdf"
             target="_blank"
             className="bg-white text-black text-center flex justify-center items-center p-2 px-4 hover:bg-blue-500 hover:text-white"
           >
